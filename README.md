@@ -16,4 +16,4 @@ Everything was implemented manually, focusing on clarity, organization, and a st
 
 ## License
 
-Pixel Grove is open-sourced software licensed under the [MIT license](LICENSE).
+Working Hours is open-sourced software licensed under the [MIT license](LICENSE).
